@@ -79,7 +79,7 @@ export default function HomePage() {
     <div className="min-h-screen bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800">
       <div className="container mx-auto px-4 py-16 max-w-6xl">
         <nav className="flex justify-between items-center mb-16">
-          <div className="text-2xl font-bold">Framework Chooser</div>
+          <div className="text-2xl font-bold">Framehub</div>
           <div className="space-x-4">
             <Button variant="ghost" size="sm">
               About
@@ -96,7 +96,7 @@ export default function HomePage() {
 
         <div className="text-center mb-16">
           <h1 className="text-5xl font-extrabold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
-            Framework Chooser
+            Framehub
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto">
             Select, configure, and initialize your preferred web development
@@ -185,7 +185,7 @@ export default function HomePage() {
               GitHub
             </Button>
           </div>
-          <p>&copy; 2023 Framework Chooser. All rights reserved.</p>
+          <p>&copy; 2023 AurimarL. All rights reserved.</p>
         </footer>
       </div>
     </div>
